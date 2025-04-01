@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Button from "./Button.tsx";
+import Button from "./button";
 
 function App() {
   const [count, setCount] = useState(0);
